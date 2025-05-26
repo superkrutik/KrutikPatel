@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 80">
+    <rect width="240" height="80" rx="10" fill="#0088cc"/>
+    <text x="70" y="50" font-family="Arial" font-size="24" fill="white">Telegram</text>
+    <path d="M40,40 l-5,-5 l-3,15 l20,-18 l-12,8" fill="white"/>
+</svg>
