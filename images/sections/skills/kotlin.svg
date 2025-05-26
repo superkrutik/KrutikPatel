@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128">
+    <linearGradient id="kotlin-original-a" gradientUnits="userSpaceOnUse" x1="-4.046" y1="51.316" x2="130.718" y2="51.316">
+        <stop offset="0" stop-color="#1C93C1"/>
+        <stop offset=".163" stop-color="#2391C0"/>
+        <stop offset=".404" stop-color="#378BBE"/>
+        <stop offset=".696" stop-color="#587EB9"/>
+        <stop offset=".995" stop-color="#7F6CB1"/>
+    </linearGradient>
+    <path fill="url(#kotlin-original-a)" d="M0 0h128v128H0z"/>
+    <path fill="#FFF" d="M0 0h61.25L0 60.625zm0 128L128 0H64.5L0 63.875zm70.75 0L128 64.25V0L70.75 128zM0 75.875L52.375 128H128l-75.625-75.625z"/>
+</svg>
